@@ -1,0 +1,33 @@
+{
+  "originHash" : "2bd417895994652a792102bbbf5291124c0c7a0bd7bd55cea17d928a7e8a92a7",
+  "pins" : [
+    {
+      "identity" : "hguicomponents",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Hugo-Coutinho/HGUIComponents",
+      "state" : {
+        "revision" : "64688a732f42745732c94e6406fc6621edea9a6f",
+        "version" : "1.0.3"
+      }
+    },
+    {
+      "identity" : "network-layer-framework",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Hugo-Coutinho/Network-Layer-Framework.git",
+      "state" : {
+        "revision" : "a1bafbb2c955db418ab25cc1fe4fd21f6037ca25",
+        "version" : "1.0.5"
+      }
+    },
+    {
+      "identity" : "videos-dailymotion",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Hugo-Coutinho/Videos-DailyMotion.git",
+      "state" : {
+        "revision" : "da59b459379ff79c7eeb9cfe61cdb91ced575a3f",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 3
+}

@@ -27,7 +27,7 @@ To use this project, you'll need to install the following package dependencies:
 
 ```
 
-- **Video Feature**: For the video feature, this project depends on another package named Video-Feature-Package, developed by the project owner. The purpose of this package is to isolate video-related functionality and maintain a clear separation of concerns. You can integrate it into your project using Swift Package Manager with the following dependency:
+- **Video Feature**: For the video feature, this project depends on another package named Videos-DailyMotion, developed by the project owner. The purpose of this package is to isolate video-related functionality and maintain a clear separation of concerns. You can integrate it into your project using Swift Package Manager with the following dependency:
 
 ```swift
 .package(url: "https://github.com/Hugo-Coutinho/Videos-DailyMotion", from: "1.0.0")

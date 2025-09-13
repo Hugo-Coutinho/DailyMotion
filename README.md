@@ -4,7 +4,7 @@
     <table>
         <tr>
             <td style="text-align: center">
-                    <img src="https://github.com/Hugo-Coutinho/README-Assets/blob/master/Other/DailyMotion.gif?raw=true" width="250" height="450"/>
+                    <img src="https://github.com/Hugo-Coutinho/README-Assets/blob/master/Other/DailyMotion.gif?raw=true" width="300"/>
                 </a>
             </td>            
         </tr>   
